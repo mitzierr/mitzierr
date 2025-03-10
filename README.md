@@ -1,7 +1,5 @@
 heyy everyone
-<!--
-**mitzierr/mitzierr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://fi.pinterest.com/pin/3799980924957021/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
